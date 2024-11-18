@@ -31,4 +31,4 @@ Perfect for practicing JavaScript DOM manipulation and basic game logic!
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/dice-game.git
+   git clone https://github.com/Khevin111599/dice-game.git
